@@ -1,0 +1,15 @@
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.exe
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.deps.json
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.dll
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.pdb
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.dll
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.pdb
+C:\GitHub\sample-pipeline\WinFormsApp1\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache

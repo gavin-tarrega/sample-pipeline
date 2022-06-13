@@ -19,7 +19,8 @@ steps:
 
 - task: NuGetCommand@2
   inputs:
-    restoreSolution: '$(solution)'
+    command: 'custom'
+    arguments: 'restore WinFormsApp1\packages.config -PackagesDirectory $(Build.SourcesDirectory)\packages'
 
 - task: VSBuild@1
   inputs:
